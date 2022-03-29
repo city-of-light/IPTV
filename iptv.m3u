@@ -2,37 +2,37 @@
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV2.png",CCTV2
 http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
-#EXTINF:-1 tvg-logo="CCTV3.png",CCTV3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV3.png",CCTV3
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
-#EXTINF:-1 tvg-logo="CCTV4.png",CCTV4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV4.png",CCTV4
 http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-#EXTINF:-1 tvg-logo="CCTV5.png",CCTV5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV5.png",CCTV5
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 tvg-logo="CCTV6.png",CCTV6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV6.png",CCTV6
 http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
-#EXTINF:-1 tvg-logo="CCTV7.png",CCTV7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV7.png",CCTV7
 http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
-#EXTINF:-1 tvg-logo="CCTV8.png",CCTV8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV8.png",CCTV8
 http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-#EXTINF:-1 tvg-logo="CCTV9.png",CCTV9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV9.png",CCTV9
 http://183.207.248.71:80/cntv/live1/CCTV-9/cctv-news
-#EXTINF:-1 tvg-logo="CCTV10.png",CCTV10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV10.png",CCTV10
 http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-#EXTINF:-1 tvg-logo="CCTV11.png",CCTV11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV11.png",CCTV11
 http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-#EXTINF:-1 tvg-logo="CCTV12.png",CCTV12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV12.png",CCTV12
 http://183.207.248.71:80/cntv/live1/CCTV-12/cctv-12
-#EXTINF:-1 tvg-logo="CCTV13.png",CCTV13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV13.png",CCTV13
 http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-#EXTINF:-1 tvg-logo="CCTV14.png",CCTV14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV14.png",CCTV14
 http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
-#EXTINF:-1 tvg-logo="CCTV15.png",CCTV15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV15.png",CCTV15
 http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 tvg-logo="CCTVnews.png",CGTN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTVnews.png",CGTN
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-#EXTINF:-1 tvg-logo="CCTV5 .png",CCTV5+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV5 .png",CCTV5+
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-#EXTINF:-1 tvg-logo="江苏卫视.png",江苏卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/江苏卫视.png",江苏卫视
 http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
 #EXTINF:-1 ,江苏城市
 http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
@@ -76,67 +76,67 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 ,中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="湖南卫视.png",湖南卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/湖南卫视.png",湖南卫视
 http://223.110.241.139:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
-#EXTINF:-1 tvg-logo="浙江卫视.png",浙江卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/浙江卫视.png",浙江卫视
 http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
-#EXTINF:-1 tvg-logo="东方卫视.png",东方卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/东方卫视.png",东方卫视
 http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
-#EXTINF:-1 tvg-logo="北京卫视.png",北京卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/北京卫视.png",北京卫视
 http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
-#EXTINF:-1 tvg-logo="安徽卫视.png",安徽卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/安徽卫视.png",安徽卫视
 http://183.207.248.71:80/cntv/live1/安徽卫视/anhuistv
-#EXTINF:-1 tvg-logo="辽宁卫视.png",辽宁卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/辽宁卫视.png",辽宁卫视
 http://140.207.241.2:8080/live/program/live/lnwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="山东卫视.png",山东卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/山东卫视.png",山东卫视
 http://223.110.241.139:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
-#EXTINF:-1 tvg-logo="广东卫视.png",广东卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/广东卫视.png",广东卫视
 http://140.207.241.2:8080/live/program/live/gdwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="深圳卫视.png",深圳卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/深圳卫视.png",深圳卫视
 http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="广西卫视.png",广西卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/广西卫视.png",广西卫视
 http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/
 #EXTINF:-1 tvg-logo="旅游卫视.png",海南卫视
 http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/
-#EXTINF:-1 tvg-logo="重庆卫视.png",重庆卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/重庆卫视.png",重庆卫视
 http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
-#EXTINF:-1 tvg-logo="四川卫视.png",四川卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/四川卫视.png",四川卫视
 http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/
-#EXTINF:-1 tvg-logo="河南卫视.png",河南卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/河南卫视.png",河南卫视
 http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/
-#EXTINF:-1 tvg-logo="东南卫视.png",东南卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/东南卫视.png",东南卫视
 http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="天津卫视.png",天津卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/天津卫视.png",天津卫视
 http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="江西卫视.png",江西卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/江西卫视.png",江西卫视
 http://140.207.241.2:8080/live/program/live/jxwshd/4000000/d1.m3u8
-#EXTINF:-1 tvg-logo="湖北卫视.png",湖北卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/湖北卫视.png",湖北卫视
 http://140.207.241.2:8080/live/program/live/hbwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="吉林卫视.png",吉林卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/吉林卫视.png",吉林卫视
 http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/
-#EXTINF:-1 tvg-logo="山西卫视.png",山西卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/山西卫视.png",山西卫视
 http://223.110.241.139:6610/gitv/live1/SXWS/SXWS/
-#EXTINF:-1 tvg-logo="河北卫视.png",河北卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/河北卫视.png",河北卫视
 http://223.110.241.139:6610/gitv/live1/G_HEBEI/G_HEBEI/
-#EXTINF:-1 tvg-logo="黑龙江卫视.png",黑龙江卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/黑龙江卫视.png",黑龙江卫视
 http://183.207.248.71:80/cntv/live1/黑龙江卫视/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 ,兵团卫视
 http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
 #EXTINF:-1 ,南方卫视
 http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/
-#EXTINF:-1 tvg-logo="厦门卫视.png",厦门卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/厦门卫视.png",厦门卫视
 http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1 ,延边卫视
 http://223.110.241.139:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
-#EXTINF:-1 tvg-logo="贵州卫视.png",贵州卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/贵州卫视.png",贵州卫视
 http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
-#EXTINF:-1 tvg-logo="青海卫视.png",青海卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/青海卫视.png",青海卫视
 http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
-#EXTINF:-1 tvg-logo="内蒙古卫视.png",内蒙古卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/内蒙古卫视.png",内蒙古卫视
 http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
-#EXTINF:-1 tvg-logo="云南卫视.png",云南卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/云南卫视.png",云南卫视
 http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
-#EXTINF:-1 tvg-logo="宁夏卫视.png",宁夏卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/宁夏卫视.png",宁夏卫视
 http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 #EXTINF:-1 tvg-logo="新疆卫视.png",新疆卫视
 http://223.110.241.139:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
