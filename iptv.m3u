@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="CCTV1.png",CCTV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV1.png",CCTV1
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
-#EXTINF:-1 tvg-logo="CCTV2.png",CCTV2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/city-of-light/IPTV/main/CCTV2.png",CCTV2
 http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
 #EXTINF:-1 tvg-logo="CCTV3.png",CCTV3
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
